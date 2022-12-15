@@ -40,7 +40,7 @@
     "core-js": "^3.14.0",
     "dayjs": "^1.10.5",
     "diskusage": "github:aleksey-hoffman/node-diskusage",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-fileupload": "^1.2.1",
     "fast-sort": "^3.0.2",
     "fluent-ffmpeg": "^2.1.2",
